@@ -59,7 +59,7 @@ export default function Board() {
   );
 }
 
-export default function Game() {
+function Game() {
   return (
     <div className="game">
       <div className="game-board">
